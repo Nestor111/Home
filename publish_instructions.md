@@ -14,6 +14,8 @@
 
 
 ### Update Project
-1. $ git add --all
-2. $ git commit -m "<type some notes here>"
-3. $ git push -u origin gh-pages
+1. Make sure you are in your repository
+2. $ git status
+3. $ git add --all
+4. $ git commit -m "<type some notes here>"
+5. $ git push -u origin gh-pages
