@@ -1,10 +1,6 @@
-# list 
-ls
+#!/bin/bash
+# command
+whoami
+echo Nestor Chan
+# ls; pwd
 
-# pwd
-pwd
-
-# cd
-cd
-
-cd ~/Project/Website
