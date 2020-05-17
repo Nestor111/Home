@@ -1,4 +1,4 @@
-### New Project
+## New Project
 1. $ git init
 2. Edit projects
 3. $ git add --all
